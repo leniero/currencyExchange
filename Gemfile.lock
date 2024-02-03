@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    io-console (0.5.11)
+    irb (1.4.1)
+      reline (>= 0.3.0)
+    power_assert (1.1.3)
+    reline (0.3.1)
+      io-console (~> 0.5)
+    test-unit (3.3.0)
+      power_assert
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  irb
+  test-unit
+
+BUNDLED WITH
+   2.2.22
